@@ -1,11 +1,9 @@
 <h1 align="center">Welcome, I’m Baher.</h1>
 <h3 align="center">A first-year CS student exploring different areas of the field and building projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-4her&label=Profile%20views&color=0e75b6&style=flat" alt="b-4her" /> </p>
-
 - 💿 My latest project [BeeMail 🐝📧](https://github.com/b-4her/BeeMail)
 
-- - 💿 Be sure to check out this project as well [Educational Management System](https://github.com/b-4her/Educational-Management-System)
+- 💿 Be sure to check out this project as well [Educational Management System](https://github.com/b-4her/Educational-Management-System)
 
 - 🌱 I’m currently learning **CS50 Cybersecurity**
 
