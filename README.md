@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I’m Baher.</h1>
 <h3 align="center">A first-year CS student exploring different areas of the field and building projects.</h3>
 
-- 💿 My latest project [BeeMail 🐝📧](https://github.com/b-4her/BeeMail)
+- 💿 My latest project [BeeMail 🐝](https://github.com/b-4her/BeeMail)
 
-- 💿 Be sure to check out this project as well [Educational Management System](https://github.com/b-4her/Educational-Management-System)
+- 💿 Be sure to check out this project as well [Educational Management System 🏫](https://github.com/b-4her/Educational-Management-System)
 
 - 🌱 I’m currently learning **CS50 Cybersecurity**
 
