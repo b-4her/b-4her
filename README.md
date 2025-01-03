@@ -1,8 +1,9 @@
 <h1 align="center">Welcome, I’m Baher.</h1>
-<h4 align="center">I am a first-year Computer Science undergraduate at the University of Manitoba, exploring various areas
+<h3 align="left">About me:<h/3>
+<p align="left">I am a first-year Computer Science undergraduate at the University of Manitoba, exploring various areas
 in the field to find my best fit. I have a strong foundation in programming, problem-solving, and database
 management, with experience mentoring students in mathematics and university preparation. I am eager
-to apply my skills and knowledge to make a meaningful impact in the field of computer science.</h4>
+to apply my skills and knowledge to make a meaningful impact in the field of computer science.</p>
 
 - 💿 My latest project [BeeMail 🐝📧](https://github.com/b-4her/BeeMail)
 
