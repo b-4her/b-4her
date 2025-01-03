@@ -5,15 +5,16 @@
 
 - 💿 My latest project [BeeMail 🐝📧](https://github.com/b-4her/BeeMail)
 
+- - 💿 Be sure to check out this project as well [Educational Management System](https://github.com/b-4her/Educational-Management-System)
+
 - 🌱 I’m currently learning **CS50 Cybersecurity**
 
-- 💿 Be sure to check out this project as well [Educational Management System](https://github.com/b-4her/Educational-Management-System)
-
-- 🔗 Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/b-4her/](https://www.linkedin.com/in/b-4her/)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PetkVrqOuwl9x9KO_Qi5FG_QdhjVPb3w/view?usp=sharing](https://drive.google.com/file/d/1PetkVrqOuwl9x9KO_Qi5FG_QdhjVPb3w/view?usp=sharing)
+ 
 - 📫 How to reach me **b4her1info@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PetkVrqOuwl9x9KO_Qi5FG_QdhjVPb3w/view?usp=sharing](https://drive.google.com/file/d/1PetkVrqOuwl9x9KO_Qi5FG_QdhjVPb3w/view?usp=sharing)
+- 🔗 Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/b-4her/](https://www.linkedin.com/in/b-4her/)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
