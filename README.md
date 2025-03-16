@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PetkVrqOuwl9x9KO_Qi5FG_QdhjVPb3w/view?usp=sharing](https://drive.google.com/file/d/1PetkVrqOuwl9x9KO_Qi5FG_QdhjVPb3w/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing](https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing)
  
 - 📫 How to reach me **b4her1info@gmail.com**
   
