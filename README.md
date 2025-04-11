@@ -6,7 +6,7 @@
 - 💿 Be sure to check out this project as well [Educational Management System 🏫](https://github.com/b-4her/Educational-Management-System)
 
 - 🌱 I’m currently learning **DSA** && AI — feel free to check out my <a href="https://leetcode.com/u/b-4her/">LeetCode</a> profile to see how I’m progressing in DSA! 😊
-- 
+ 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing](https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing)
  
 - 📫 How to reach me **b4her1info@gmail.com**
