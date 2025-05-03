@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA** & **AI** — feel free to check out my <a href="https://leetcode.com/u/b-4her/">LeetCode</a> profile to see how I’m progressing in DSA! :)
  
-- 📄 Know about my experiences: [ResumeLink](https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing)
+- 📄 Know about my experiences: [Resume-Link](https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing)
  
 - 📫 How to reach me **b4her1info@gmail.com**
   
