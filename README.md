@@ -5,7 +5,7 @@
 
 - 💿 Be sure to check out this project as well [Educational Management System 🏫](https://github.com/b-4her/Educational-Management-System)
 
-- 🌱 I’m currently learning **DSA** & **ML** — feel free to check out my <a href="https://leetcode.com/u/b-4her/">LeetCode</a> profile to see how I’m progressing in DSA! :)
+- 🌱 I’m currently learning <a href="https://leetcode.com/u/b-4her/">**DSA**</a> & <a href="https://github.com/b-4her/ML-Concepts">**ML**</a> .
  
 - 📄 Know about my experiences: [Resume-Link](https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing)
  
