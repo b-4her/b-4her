@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning <a href="https://leetcode.com/u/b-4her/">**DSA**</a> & **ML**
  
-- 📄 Know about my experiences: [Resume-Link](https://drive.google.com/drive/folders/1dYsWOpRbPSBURBciaopfBNW98MGSxVxI?usp=sharing)
+- 📄 Know about my experiences: [Resume-Link](https://drive.google.com/drive/folders/1vHEZtsZFUsoq3CnRv_mm8bIxFbkgkgEd?usp=sharing)
  
 - 📫 How to reach me **b4her1info@gmail.com**
   
