@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I’m Baher.</h1>
-<h3 align="center">A CS student exploring different areas of the field and building projects.</h3>
+<h3 align="center">A Data Science student exploring different areas of the field and building projects.</h3>
 
 - 💿 My latest project [BeeMail 🐝](https://github.com/b-4her/BeeMail)
 
