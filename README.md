@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I’m Baher.</h1>
 <h3 align="center">A Data Science student exploring different areas of the field and building projects.</h3>
 
-- 💿 My latest project [BeeMail 🐝](https://github.com/b-4her/BeeMail)
+- 💿 My latest project [NYC Taxi Trip Duration Prediction](https://github.com/b-4her/nyc-taxi-trip-duration-api) 
 
-- 💿 Be sure to check out this project as well [Educational Management System 🏫](https://github.com/b-4her/Educational-Management-System)
+- 💿 Be sure to check out this project as well [BeeMail 🐝](https://github.com/b-4her/BeeMail)
 
 - 🌱 I’m currently learning <a href="https://leetcode.com/u/b-4her/">**DSA**</a> & **ML**
  
