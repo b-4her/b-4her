@@ -9,7 +9,7 @@
  
 - 📄 Know about my experiences: [Resume-Link](https://drive.google.com/drive/folders/1vHEZtsZFUsoq3CnRv_mm8bIxFbkgkgEd?usp=sharing)
  
-- 📫 How to reach me **b4her1info@gmail.com**
+- 📫 How to reach me **baher.alabbar@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
