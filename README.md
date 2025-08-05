@@ -94,9 +94,6 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="Command Line" />
-  </a>
 
 <p align="center">
   <!-- Web & Frameworks -->
