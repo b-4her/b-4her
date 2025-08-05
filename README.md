@@ -19,10 +19,11 @@
 <a href="https://www.leetcode.com/b-4her" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b-4her" height="30" width="40" /></a>
 </p>
 
+---
 
-<h4 align="center">
+<h3 align="center">
   These are the technologies, languages, frameworks, and tools I use or have worked with:
-</h4>
+</h3>
 
 <p align="center">
   <!-- Languages -->
@@ -118,4 +119,30 @@
     <img src="https://img.shields.io/badge/Beautiful%20Soup-4B4B4B?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup" />
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  </a>
+
+---
+
+<div align="center">
+
+## Best Projects
+
+  <p>
+    <a href="https://github.com/b-4her/credit-card-fraud-detection">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=credit-card-fraud-detection&theme=vue-dark">
+    </a>
+    <a href="https://github.com/b-4her/nyc-taxi-trip-duration-api">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=nyc-taxi-trip-duration-api&theme=vue-dark">
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/b-4her/BeeMail">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=BeeMail&theme=vue-dark">
+    </a>
+    <a href="https://github.com/b-4her/educational-management-system">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=educational-management-system&theme=vue-dark">
+    </a>
+    <a href="https://github.com/b-4her/sparse-array-matrix">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=sparse-array-matrix&theme=vue-dark">
+    </a>
