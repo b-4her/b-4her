@@ -127,19 +127,21 @@
 
   <p>
     <a href="https://github.com/b-4her/credit-card-fraud-detection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=credit-card-fraud-detection&theme=vue-dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=credit-card-fraud-detection&theme=dark">
     </a>
     <a href="https://github.com/b-4her/nyc-taxi-trip-duration-api">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=nyc-taxi-trip-duration-api&theme=vue-dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=nyc-taxi-trip-duration-api&theme=dark">
     </a>
   </p>
   <p>
     <a href="https://github.com/b-4her/BeeMail">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=BeeMail&theme=vue-dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=BeeMail&theme=dark">
     </a>
     <a href="https://github.com/b-4her/educational-management-system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=educational-management-system&theme=vue-dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=educational-management-system&theme=dark">
     </a>
     <a href="https://github.com/b-4her/sparse-array-matrix">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=sparse-array-matrix&theme=vue-dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=sparse-array-matrix&theme=dark">
     </a>
+
+
