@@ -20,9 +20,9 @@
 </p>
 
 
-<p align="center">
+<h4 align="center">
   These are the technologies, languages, frameworks, and tools I use or have worked with:
-</p>
+</h4>
 
 <p align="center">
   <!-- Languages -->
@@ -93,6 +93,9 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Command%20Line-000000?style=for-the-badge&logo=terminal&logoColor=white" alt="Command Line" />
+  </a>
 
 <p align="center">
   <!-- Web & Frameworks -->
@@ -111,4 +114,8 @@
   <a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
   </a>
-</p>
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Beautiful%20Soup-4B4B4B?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup" />
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt
