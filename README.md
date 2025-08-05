@@ -3,7 +3,7 @@
 
 - 💿 My latest project [Credit Card Transaction Fraud Detection 🔒](https://github.com/b-4her/credit-card-fraud-detection)
 
-- 💿 Be sure to check out these projects as well [BeeMail 🐝](https://github.com/b-4her/BeeMail) ,  [NYC Taxi Trip Duration Prediction 🚕](https://github.com/b-4her/nyc-taxi-trip-duration-api) 
+- 💿 Be sure to check out these as well [BeeMail 🐝](https://github.com/b-4her/BeeMail) ,  [NYC Taxi Trip Duration Prediction 🚕](https://github.com/b-4her/nyc-taxi-trip-duration-api) 
 
 - 🌱 I’m currently learning <a href="https://leetcode.com/u/b-4her/">**DSA**</a> & **ML**
  
