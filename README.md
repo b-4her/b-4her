@@ -21,9 +21,7 @@
 
 ---
 
-<h3 align="center">
-  These are the technologies, languages, frameworks, and tools I use or have worked with:
-</h3>
+<h2 align="center">Tech & Tools I Used</h2>
 
 <p align="center">
   <!-- Languages -->
