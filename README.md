@@ -1,5 +1,8 @@
-<h1 align="left">Welcome, I’m Baher.</h1>
-<h3 align="left">A Data Science student exploring different areas of the field and building projects.</h3>
+<h1 align="left">Hi, I’m Baher.</h1>
+<h3 align="left">
+Data Science student with a solid CS foundation, passionate about problem solving and building machine learning systems that balance strong engineering with solid theory.
+</h3>
+
 
 - 💿 My latest project [Credit Card Transaction Fraud Detection 🔒](https://github.com/b-4her/credit-card-fraud-detection)
 
