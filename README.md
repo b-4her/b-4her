@@ -1,5 +1,5 @@
-<h1 align="center">Welcome, I’m Baher.</h1>
-<h3 align="center">A Data Science student exploring different areas of the field and building projects.</h3>
+<h1 align="left">Welcome, I’m Baher.</h1>
+<h3 align="left">A Data Science student exploring different areas of the field and building projects.</h3>
 
 - 💿 My latest project [Credit Card Transaction Fraud Detection 🔒](https://github.com/b-4her/credit-card-fraud-detection)
 
