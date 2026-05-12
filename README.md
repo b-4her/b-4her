@@ -3,22 +3,29 @@
 Data Science student with a solid CS foundation, passionate about problem solving and building machine learning systems that balance strong engineering with solid theory.
 </h3>
 
+## Featured Projects
 
-- 💿 My latest project [Credit Card Transaction Fraud Detection 🔒](https://github.com/b-4her/credit-card-fraud-detection)
+### [Credit Card Fraud Detection](https://github.com/b-4her/credit-card-fraud-detection)
+Machine learning pipeline for detecting fraudulent credit card transactions using classification models, feature engineering, and performance evaluation techniques.
 
-- 💿 Be sure to check out these as well [BeeMail 🐝](https://github.com/b-4her/BeeMail) ,  [NYC Taxi Trip Duration Prediction 🚕](https://github.com/b-4her/nyc-taxi-trip-duration-api) 
+### [NYC Taxi Trip Duration Prediction](https://github.com/b-4her/nyc-taxi-trip-duration-api)
+End-to-end prediction API for NYC taxi trip durations built with FastAPI and machine learning workflows.
 
-- 🌱 I’m currently learning <a href="https://leetcode.com/u/b-4her/">**DSA**</a> & **ML**
- 
-- 📫 How to reach me **baher.alabbar@gmail.com**
+### [BeeMail](https://github.com/b-4her/BeeMail)
+Email platform project focused on backend architecture and application design.
   
+## Currently Learning
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/b-4her" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b-4her" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@b-4her" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="baher alabbar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/b-4her" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b-4her" height="30" width="40" /></a>
-</p>
+- [Data Structures & Algorithms](https://github.com/b-4her/py-DSA)
+- Deep Learning, with a current focus on Hypergraph Neural Networks (HPGNNs)
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/b-4her](https://linkedin.com/in/b-4her)
+- LeetCode: [leetcode.com/u/b-4her](https://leetcode.com/u/b-4her)
+- YouTube: [youtube.com/@b-4her](https://www.youtube.com/@b-4her)
+
+📫 baher.alabbar@gmail.com
 
 ---
 
