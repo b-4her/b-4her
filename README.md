@@ -50,30 +50,3 @@ Email platform project focused on backend architecture and application design.
   <!-- Web & Frameworks -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a><a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" /></a><a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Beautiful%20Soup-4B4B4B?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup" /></a><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a>
 </p>
-
----
-
-<div align="center">
-
-## Best Projects
-
-  <p>
-    <a href="https://github.com/b-4her/credit-card-fraud-detection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=credit-card-fraud-detection&theme=dark">
-    </a>
-    <a href="https://github.com/b-4her/nyc-taxi-trip-duration-api">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=nyc-taxi-trip-duration-api&theme=dark">
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/b-4her/BeeMail">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=BeeMail&theme=dark">
-    </a>
-    <a href="https://github.com/b-4her/educational-management-system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=educational-management-system&theme=dark">
-    </a>
-    <a href="https://github.com/b-4her/sparse-array-matrix">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=b-4her&repo=sparse-array-matrix&theme=dark">
-    </a>
-
-
