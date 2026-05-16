@@ -11,9 +11,6 @@ Machine learning pipeline for detecting fraudulent credit card transactions usin
 ### [NYC Taxi Trip Duration Prediction](https://github.com/b-4her/nyc-taxi-trip-duration-api)
 End-to-end prediction API for NYC taxi trip durations built with FastAPI and machine learning workflows.
 
-### [BeeMail](https://github.com/b-4her/BeeMail)
-Email platform project focused on backend architecture and application design.
-  
 ## Currently Learning
 
 - [Data Structures & Algorithms](https://github.com/b-4her/py-DSA)
