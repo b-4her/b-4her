@@ -20,7 +20,6 @@ End-to-end prediction API for NYC taxi trip durations built with FastAPI and mac
 
 - LinkedIn: [linkedin.com/in/b-4her](https://linkedin.com/in/b-4her)
 - LeetCode: [leetcode.com/u/b-4her](https://leetcode.com/u/b-4her)
-- YouTube: [youtube.com/@b-4her](https://www.youtube.com/@b-4her)
 
 📫 baher.alabbar@gmail.com
 
