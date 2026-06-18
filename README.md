@@ -17,7 +17,7 @@ End-to-end prediction API for NYC taxi trip durations built with FastAPI and mac
 ## Currently Learning
 
 - [Data Structures & Algorithms](https://github.com/b-4her/py-DSA)
-- Deep Learning, with a current focus on Hypergraph Neural Networks (HPGNNs)
+- Deep Learning, with a current focus on Hypergraph Neural Networks (HGNNs)
 
 ## Connect
 
