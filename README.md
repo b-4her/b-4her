@@ -5,6 +5,9 @@ Data Science student with a solid CS foundation, passionate about problem solvin
 
 ## Featured Projects
 
+### [Contrastive Learning Through CCA](https://github.com/b-4her/utssrp-cca-contrastive-encoders)
+Research project developed during my summer research at the University of Toronto, exploring CCA, correlation inflation, covariance tapering, and contrastive residual encoders.
+
 ### [Credit Card Fraud Detection](https://github.com/b-4her/credit-card-fraud-detection)
 Machine learning pipeline for detecting fraudulent credit card transactions using classification models, feature engineering, and performance evaluation techniques.
 
